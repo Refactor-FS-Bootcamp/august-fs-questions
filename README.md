@@ -6,7 +6,7 @@ This will asses if you actually know HTML, which is one of the many prerequisite
 Step 1: Start by rendering a square with a background color. 
 Step 2: Inside the square, render "Hello, World!".
 
-//add the image
+<img src="https://refactor-platform-store.objectstore.e2enetworks.net/41e2ae7b-86df-448e-9079-3533dd58f28a_0%202.jpg", alt ="">
 
 Helpful links:
 HTML - https://www.w3schools.com/html/
