@@ -54,7 +54,7 @@ The custom component should accept an onClick prop. On render, it should render 
 Think of it like the HTML "button" tag. Whatever text you place between the opening and closing tag is rendered between the button when you inspect the element in your browser developer console.
 <br>
 On user click, it should alert which button was clicked.
-
+<br>
 <br>
 Helpful links:
 <br>
