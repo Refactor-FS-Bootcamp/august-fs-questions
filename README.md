@@ -151,7 +151,7 @@ You only created a custom button there. This time, you'll create a custom compon
 <br>
 ['dog', 'cat', 'chicken', 'cow', 'sheep', 'horse']
 <br>
-Instead of using the <ul> and <li> HTML tags, create a custom component that accepts a list as its prop, and renders it accordingly.
+Instead of using the "<ul>" and "<li>" HTML tags, create a custom component that accepts a list as its prop, and renders it accordingly.
 <br>
 It's up to you how you want this list will look like. I decided mine to look like this:
 <br>
@@ -297,13 +297,13 @@ There should also be a button that when clicked, will fetch another set of 10 ra
 <br>
 Here are the steps for this exercise:
 <br>
-1. Fetch the data from the URL. You also have to handle converting the JSON response into a JavaScript object in this process. (See Response.json() resource link below)
+1.Fetch the data from the URL. You also have to handle converting the JSON response into a JavaScript object in this process. (See Response.json() resource link below)
 <br>
-2. Store it in React state.
+2.Store it in React state.
 <br>
-3. Render the data based on the state.
+3.Render the data based on the state.
 <br>
-4. Take note that most APIs return data in the form of JSON. Good thing we already covered JSON in the previous exercise 😄
+4.Take note that most APIs return data in the form of JSON. Good thing we already covered JSON in the previous exercise 😄
 <br>
 <br>
 Hints:
